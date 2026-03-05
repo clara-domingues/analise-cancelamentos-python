@@ -1,2 +1,4 @@
 # analise-cancelamentos-python
-analise de dados com uma tabela de cancelamentos de uma empresa, utilizei bibliotecas como pandas, plotly, extensão jupyter e etc 
+Este projeto foi desenvolvido para analisar uma base de dados de clientes e identificar os principais motivos de cancelamento, propondo soluções estratégicas para aumentar a retenção.
+Tecnologias Utilizadas:Python 3.14: Linguagem principal utilizada,Pandas: Biblioteca para manipulação e tratamento dos dados, VS Code + Jupyter Notebook: Ambiente de desenvolvimento e execução dos blocos de código.
+Etapas do Projeto:Importação de Dados: Leitura da base de dados cancelamentos.csv contendo 50.000 registros, Tratamento de Dados, Remoção de colunas inúteis para a análise (ex: CustomerID), Limpeza de valores vazios (NaN) para garantir a precisão dos resultados, Análise Exploratória: Visualização das características dos clientes (idade, tempo como cliente, frequência de uso, etc.), Identificação de Problemas, Diagnóstico de falhas no serviço ou comportamento dos clientes que levam ao cancelamento e possiveis soluções 
